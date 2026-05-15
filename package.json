@@ -1,0 +1,22 @@
+{
+  "name": "random-quote-generator-api-",
+  "version": "1.0.0",
+  "description": "A simple Node.js backend project that generates random quotes through an API endpoint. It demonstrates routing, server creation, and dynamic JSON responses using the HTTP module.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Novanoory/Random-Quote-Generator-API-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Novanoory/Random-Quote-Generator-API-/issues"
+  },
+  "homepage": "https://github.com/Novanoory/Random-Quote-Generator-API-#readme"
+}
